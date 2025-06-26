@@ -26,7 +26,7 @@ Una aplicación visual de JavaFX que permite introducir elementos en una lista y
 
 1. Crea un nuevo proyecto Maven.
 2. Añade las dependencias de JavaFX en tu `pom.xml`.
-3. Usa `SelectorAleatorioFX.java` como clase principal.
+3. Usa `selectorAleatorio.java` como clase principal.
 4. Asegúrate de configurar correctamente el path de JavaFX en *Run Configurations*:
 
    - VM options (ejemplo en Windows):
